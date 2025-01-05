@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints
+
+# Model files
+*.pt
+*.bin
+checkpoints/
+
+# Node/React
+node_modules/
+build/
