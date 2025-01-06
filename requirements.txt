@@ -1,0 +1,36 @@
+# Core Data Science
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+scikit-learn>=0.24.0
+
+# Machine Learning and NLP
+torch>=1.10.0
+transformers>=4.30.0
+sentencepiece
+accelerate
+
+# Database
+pyodbc
+sqlalchemy
+python-dotenv
+
+# Web Framework (for future API)
+fastapi
+uvicorn
+
+# Data Processing
+pyyaml
+tqdm
+
+# Tracking and Logging
+wandb
+
+# Optional but recommended
+jupyter
+matplotlib
+seaborn
+
+# Specific for LLM training
+peft
+bitsandbytes
