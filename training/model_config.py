@@ -20,9 +20,9 @@ class ModelConfig:
 @dataclass
 class TrainingConfig:
     # Training parameters
-    batch_size: int = 4
+    batch_size: int = 2
     gradient_accumulation_steps: int = 4
-    num_epochs: int = 3
+    num_epochs: int = 1
     learning_rate: float = 2e-4
     warmup_steps: int = 100
     max_grad_norm: float = 0.3

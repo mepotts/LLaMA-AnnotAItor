@@ -1,0 +1,17 @@
+{"time":"2025-01-05T20:17:05.0258537-05:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-05T20:17:05.0258537-05:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\matth\\Documents\\projects\\LLaMA-AnnotAItor\\training\\wandb\\run-20250105_201705-ap7bshre\\logs\\debug-core.log"}
+{"time":"2025-01-05T20:17:05.629425-05:00","level":"INFO","msg":"created new stream","id":"ap7bshre"}
+{"time":"2025-01-05T20:17:05.629425-05:00","level":"INFO","msg":"stream: started","id":"ap7bshre"}
+{"time":"2025-01-05T20:17:05.629425-05:00","level":"INFO","msg":"handler: started","stream_id":"ap7bshre"}
+{"time":"2025-01-05T20:17:05.629425-05:00","level":"INFO","msg":"sender: started","stream_id":"ap7bshre"}
+{"time":"2025-01-05T20:17:05.629425-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"ap7bshre"}
+{"time":"2025-01-05T20:17:05.9047774-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-05T20:17:06.2102252-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T20:23:35.3397862-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T20:23:35.3440207-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T20:23:37.0597007-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T20:23:37.0632323-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T20:23:38.0120424-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T20:23:38.0151584-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T20:23:39.1225362-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T20:23:39.1236548-05:00","level":"INFO","msg":"Pausing system monitor"}

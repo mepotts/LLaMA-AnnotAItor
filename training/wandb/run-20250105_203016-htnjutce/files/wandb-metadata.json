@@ -1,0 +1,42 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-01-06T01:30:16.745769Z",
+  "program": "C:\\Users\\matth\\Documents\\projects\\LLaMA-AnnotAItor\\training\\train.py",
+  "codePath": "training\\train.py",
+  "git": {
+    "remote": "https://github.com/mepotts/LLaMA-AnnotAItor.git",
+    "commit": "9925db89210f810d3908157fb364f9e0e819b750"
+  },
+  "email": "mepotts@berkeley.edu",
+  "root": "C:\\Users\\matth\\Documents\\projects\\LLaMA-AnnotAItor\\training",
+  "host": "DESKTOP-EDCNEMM",
+  "executable": "C:\\Users\\matth\\anaconda3\\envs\\lyrics-annotator\\python.exe",
+  "codePathLocal": "train.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "999558213632",
+      "used": "719616737280"
+    }
+  },
+  "memory": {
+    "total": "68606255104"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 24
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.7"
+}

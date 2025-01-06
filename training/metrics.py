@@ -1,6 +1,5 @@
 from typing import Dict, Any
 import evaluate
-from datasets import load_metric
 import numpy as np
 import torch
 from transformers import EvalPrediction

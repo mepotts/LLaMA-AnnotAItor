@@ -141,8 +141,10 @@ class LyricsTrainer:
             fp16=True,
             logging_steps=10,
             evaluation_strategy="steps",
-            eval_steps=self.training_config.eval_steps,
-            save_strategy="epoch",
+            # eval_steps=self.training_config.eval_steps,
+            eval_steps=200,
+            save_strategy="steps",
+            save_steps=400,
             load_best_model_at_end=True,
             report_to="wandb"
         )

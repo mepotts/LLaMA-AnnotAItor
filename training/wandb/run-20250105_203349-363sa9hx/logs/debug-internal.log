@@ -1,0 +1,8 @@
+{"time":"2025-01-05T20:33:49.9834549-05:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-05T20:33:49.9834549-05:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\matth\\Documents\\projects\\LLaMA-AnnotAItor\\training\\wandb\\run-20250105_203349-363sa9hx\\logs\\debug-core.log"}
+{"time":"2025-01-05T20:33:50.4439961-05:00","level":"INFO","msg":"created new stream","id":"363sa9hx"}
+{"time":"2025-01-05T20:33:50.4439961-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"363sa9hx"}
+{"time":"2025-01-05T20:33:50.4439961-05:00","level":"INFO","msg":"handler: started","stream_id":"363sa9hx"}
+{"time":"2025-01-05T20:33:50.4439961-05:00","level":"INFO","msg":"stream: started","id":"363sa9hx"}
+{"time":"2025-01-05T20:33:50.4445279-05:00","level":"INFO","msg":"sender: started","stream_id":"363sa9hx"}
+{"time":"2025-01-05T20:33:50.7408962-05:00","level":"INFO","msg":"Starting system monitor"}

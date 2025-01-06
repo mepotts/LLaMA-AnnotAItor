@@ -1,0 +1,13 @@
+C:\Users\matth\anaconda3\envs\lyrics-annotator\lib\site-packages\transformers\training_args.py:1545: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Traceback (most recent call last):
+  File "C:\Users\matth\Documents\projects\LLaMA-AnnotAItor\training\train.py", line 174, in <module>
+    trainer.train()
+  File "C:\Users\matth\Documents\projects\LLaMA-AnnotAItor\training\train.py", line 135, in train
+    training_args = TrainingArguments(
+  File "<string>", line 132, in __init__
+  File "C:\Users\matth\anaconda3\envs\lyrics-annotator\lib\site-packages\transformers\training_args.py", line 1613, in __post_init__
+    raise ValueError(
+ValueError: --load_best_model_at_end requires the save and eval strategy to match, but found
+- Evaluation strategy: steps
+- Save strategy: epoch
